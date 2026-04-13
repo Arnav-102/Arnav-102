@@ -90,6 +90,18 @@ A full-stack IPO platform built during my internship — cut query times by 40%,
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav-102&show_icons=true&hide_border=true&title_color=b45309&icon_color=f59e0b&text_color=78350f&bg_color=fffbeb&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-102&layout=compact&hide_border=true&title_color=b45309&text_color=78350f&bg_color=fffbeb)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arnav-102&hide_border=true&background=fffbeb&ring=f59e0b&fire=b45309&currStreakLabel=92400e&sideLabels=92400e&dates=78350f&currStreakNum=78350f&sideNums=78350f)
+
+</div>
+
 ---
 
 <div align="center">
