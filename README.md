@@ -1,92 +1,63 @@
-<!-- Arnav Sinha — GitHub Profile README -->
+# Hey, I'm Arnav Sinha 👋
 
-<div align="center">
+### Full-Stack & AI Developer
 
-```
- █████╗ ██████╗ ███╗   ██╗ █████╗ ██╗   ██╗    ███████╗██╗███╗   ██╗██╗  ██╗ █████╗
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║    ██╔════╝██║████╗  ██║██║  ██║██╔══██╗
-███████║██████╔╝██╔██╗ ██║███████║██║   ██║    ███████╗██║██╔██╗ ██║███████║███████║
-██╔══██║██╔══██╗██║╚██╗██║██╔══██║╚██╗ ██╔╝    ╚════██║██║██║╚██╗██║██╔══██║██╔══██║
-██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝     ███████║██║██║ ╚████║██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝      ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+I love building things that are fast, intelligent, and useful — from offline AI systems to cloud-native web apps. Currently finishing my B.Tech at VIT Bhopal and always up for cool projects.
 
-**`// Full-Stack & AI Developer`**
+📍 Bhopal, India &nbsp;|&nbsp; 🎓 VIT Bhopal · CSE · 2026 &nbsp;|&nbsp; 💼 Open to opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-sinha-997641280/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaarnav1112@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnav-102)
-
-</div>
+📧 [sinhaarnav1112@gmail.com](mailto:sinhaarnav1112@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arnav-sinha-997641280/)
 
 ---
 
-```python
-class ArnavSinha:
-    def __init__(self):
-        self.name       = "Arnav Sinha"
-        self.role       = "Full-Stack & AI Developer"
-        self.education  = "B.Tech CSE @ VIT Bhopal (2026)"
-        self.location   = "Bhopal, India"
-        self.languages  = ["Python", "JavaScript", "TypeScript", "Java", "C", "SQL"]
-        self.interests  = ["AI/ML", "Cloud-Native Apps", "Offline AI", "Computer Vision"]
-
-    def current_focus(self):
-        return "Building scalable web apps, intelligent systems & cloud-native solutions"
-```
+> I'm a developer who cares about both the code and the people using it. I've built everything from a brain tumor detector running entirely in the browser, to an offline AI assistant that searches through thousands of your notes instantly. Currently exploring the intersection of AI and practical software engineering.
 
 ---
 
-## `// featured_projects`
+## Things I've built
 
-### 🧠 [SecondBrain](https://github.com/Arnav-102) — Offline RAG Knowledge Assistant
-> Local LLM-powered knowledge system with semantic search & 3D visualization
+### 🧠 SecondBrain — Offline RAG Knowledge Assistant
+An offline AI assistant that searches 10K+ of your personal notes in under 150ms — no cloud, no privacy tradeoffs. Also has a 3D knowledge graph!
 
-- Built **Local RAG System** using **Llama 3 + ChromaDB** — private offline semantic search across **10K+ documents** at **<150ms** latency
-- Developed a **3D Knowledge Graph** with **React + Three.js**, visualizing **5,000+ data points** to uncover hidden connections
+`RAG` `Llama 3` `ChromaDB` `React` `Three.js`
 
-`Python` `Llama 3` `ChromaDB` `React` `Three.js` `RAG`
+🔗 [github.com/Arnav-102](https://github.com/Arnav-102)
 
 ---
 
-### 🩺 [NeuroScan AI](https://github.com/Arnav-102/NeuroScan) — Brain Tumor Diagnostic Tool
-> Medical CNN for brain tumor detection with client-side privacy-first inference
-
-- Engineered a **98% accurate CNN (ResNet18)** using **PyTorch + transfer learning** on **10K+ MRI images**
-- Deployed **client-side inference** via **ONNX Runtime + WebAssembly** — 100% patient data privacy, zero server dependency
+### 🩺 NeuroScan AI — Brain Tumor Diagnostic Tool
+A brain tumor detector that runs 100% in your browser — no data ever leaves your device. Built with PyTorch and converted to WebAssembly for privacy-first inference.
 
 `PyTorch` `ResNet18` `ONNX` `WebAssembly` `Computer Vision`
 
+🔗 [github.com/Arnav-102/NeuroScan](https://github.com/Arnav-102/NeuroScan)
+
 ---
 
-### 🤟 [SignSpeak](https://github.com/Arnav-102) — Real-Time Sign Language Translator
-> ISL gesture recognition system with live text-to-speech output
-
-- Built **Gesture Recognition** using **MediaPipe + LSTMs**, translating **50+ ISL signs** into English at **95% accuracy / 30 FPS**
-- Integrated **Text-to-Speech** via **gTTS** to bridge communication gaps for the hearing impaired
+### 🤟 SignSpeak — Real-Time Sign Language Translator
+Real-time sign language translator that converts 50+ Indian Sign Language gestures into spoken English — bridging communication for the hearing impaired.
 
 `MediaPipe` `LSTM` `OpenCV` `gTTS` `Python`
 
+🔗 [github.com/Arnav-102](https://github.com/Arnav-102)
+
 ---
 
-### 📈 IPO Web App — Bluestock Fintech *(Internship)*
-> Full-stack IPO platform with real-time data and cloud deployment
-
-- RESTful API + responsive React frontend → **40% faster query time**
-- Firestore DB with **10+ IPO entries** → **30% faster real-time retrieval**
-- Firebase Cloud Functions deployment → **50% reduced deployment time**
+### 📈 IPO Web App · Bluestock Fintech *(Internship)*
+A full-stack IPO platform built during my internship — cut query times by 40%, sped up deployments by 50%, and made real-time data 30% faster with Firestore.
 
 `React.js` `Firebase` `Firestore` `Node.js` `REST API`
 
 ---
 
-## `// skills`
+## What I work with
 
 **Languages & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -106,36 +77,31 @@ class ArnavSinha:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
 ---
 
-## `// experience`
+## Where I've worked
 
 **Software Development Engineer Intern** · Bluestock Fintech *(Jun – Jul 2025, Remote)*
-> Full-stack IPO web app · RESTful API · Firebase · React.js
+
+- Built a full-stack IPO web app with RESTful API — cut query time by 40%
+- Designed a Firestore database that made real-time retrieval 30% faster
+- Automated deployments with Firebase Cloud Functions — 50% faster releases
+- Built React.js components that boosted user engagement by 25%
 
 ---
 
-## `// github_stats`
+## GitHub Stats
 
 <div align="center">
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav-102&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=57a6ff&icon_color=3fb950&text_color=c9d1d9)
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav-102&show_icons=true&theme=default&hide_border=true&title_color=b45309&icon_color=f59e0b&text_color=78350f&bg_color=fffbeb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=57a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arnav-102&theme=github-dark-blue&hide_border=true&background=0d1117&ring=57a6ff&fire=3fb950&currStreakLabel=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-102&layout=compact&theme=default&hide_border=true&title_color=b45309&text_color=78350f&bg_color=fffbeb)
 
 </div>
 
 ---
 
 <div align="center">
-
-`// thanks for visiting · let's build something cool`
-
+  <i>Thanks for stopping by — let's build something great together!</i>
 </div>
