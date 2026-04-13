@@ -120,25 +120,6 @@ class ArnavSinha:
 
 ---
 
-## `// certifications`
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| Database SQL Specialist | Oracle | 2025 |
-| Bits & Bytes of Computer Networking | Google | 2024 |
-| Cloud Computing | NPTEL – IIT Kharagpur | 2024 |
-| Alpha: DSA with Java | APNA College | 2023 |
-
----
-
-## `// education`
-
-**B.Tech — Computer Science & Engineering**
-Vellore Institute of Technology, Bhopal · *2022 – 2026*
-> OS · Computer Networks · DBMS · Theory of Computation · DSA
-
----
-
 ## `// github_stats`
 
 <div align="center">
